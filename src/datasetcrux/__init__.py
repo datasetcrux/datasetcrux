@@ -1,1 +1,1 @@
-from datasetcrux import *
+from .datasetcrux import random_string
