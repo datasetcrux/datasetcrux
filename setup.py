@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="datasetcrux",
-    version="0.0.31",
+    version="0.0.33",
     author="Vinay Panchal",
     author_email="vinay.npanchal@gmail.com",
     description="Dataset creation, management and analysis tool",
